@@ -6,7 +6,7 @@ Created on Thu Aug 23 03:30:26 2018
 @author: nilesh
 """
 
-import requests, webbrowser, bs4, pyperclip 
+import requests, webbrowser, bs4
 from tkinter import *
 from tkinter import messagebox
 
