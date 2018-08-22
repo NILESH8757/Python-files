@@ -1,3 +1,5 @@
+#someone published a blog on codeforces with this script linked.
+#I couldn't retrive the original blog. All copyrights reserved to original author.
 import sys
 import json
 import subprocess 
